@@ -9,6 +9,3 @@ Features expected:
 3. Chat if possible
 4. Social sharing and Live streaming
 5. Crosswalk
-
-
-testss
